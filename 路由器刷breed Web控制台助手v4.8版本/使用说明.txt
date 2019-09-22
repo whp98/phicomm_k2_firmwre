@@ -1,0 +1,45 @@
+软件使用说明：某些杀毒可能会误报成木马名称：Trojan.Generic(是不是木马请自行百度Trojan.Generic误报)本人保障没有加任何东西
+
+1、检查软件包下载是否完整，以下文件是否被杀毒软件误杀和防火墙拦截。
+   
+   路由器刷breed Web助手通用版v4.8.exe 主程序
+   breed Web懒人工具.exe 小白操作breed刷机工具
+   plink.exe telnet_ssh终端
+   MyWebServer.exe HTTP服务（用于架设breed本地服务器）
+   RoutAck.exe 坛友phitools开发的斐讯激活 Telnet 利器
+
+2、使用网线将电脑与路由器连接并保持两者之间连接通畅，拔出路由器上的其他连接设备，只保留与电脑的连接，为确保稳定软件不支持无线方式刷机。
+
+3、设置软件上的路由器登录名、密码、路由器IP地址、端口、适配机型版本，注意：使用斐讯[K1/K2]自动方案或者斐讯[K2P]自动方案时一般保持默认即可，除非你改过管理密码和IP地址。
+
+v4.8版本更新日志：刷机有风险，玩机须谨慎！！
+
+   跟进更新h大神的breed版本为:r1126版本,斐讯K1/K2与k2p方案分开，添加小米3G路由器刷机方案[需要自己开启ssh]
+   说明：助手自带的备份功能仅针对斐讯系列，其他固件可能会备份失败，建议使用breed Web懒人工具备份
+
+原文件md5校验值：建议大家下载文件后使用hash_1.0.4校验一下路由器刷breed Web控制台通用版.exe文件是否跟微信:huzibbs-it 上面的路由器刷breed助手文章里面的md5值是否一致，如果不一致建议不要使用，可能会被注入了病毒及盗号类木马程序
+
+File:路由器刷breed Web控制台助手v4.8版本.exe
+Size: 458752 bytes
+File Version: 4.8.0.0
+Modified: 2017年9月24日, 14:24:29
+MD5: B7204D745DD26992480393605FF4A677
+SHA1: BBA13D60E89B1F7E4B8ADCB27ACEF7FB50A67863
+CRC32: CAB28F83
+
+File:breed Web懒人工具.exe
+Size: 345088 bytes
+File Version: 1.03
+Modified: 2017年9月23日, 21:49:41
+MD5: A82EA8DB33BC9B4CE0C6EB699E09A4BA
+SHA1: 05BC14557646D3B73C696925673DF3D748F59DC9
+CRC32: 551BC001
+
+
+
+
+
+
+
+
+

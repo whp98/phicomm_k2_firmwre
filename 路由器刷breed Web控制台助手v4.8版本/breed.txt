@@ -1,0 +1,110 @@
+﻿md5sum.txt	当前版本所有 Breed 文件的 MD5 值，用于校验文件的完整性
+opboot-k2p-1.0.6.bin  		K2P OpBoot 1.0.6 mleaf基于uboot修改的k2p专用Bootloader引导程序支持官网固件及第三方固件刷入
+[文件说明]
+文件名	说明
+BreedEnter.exe	Breed 启动中断工具，实现免按复位键进入 Web 刷机模式
+md5sum.txt	当前版本所有 Breed 文件的 MD5 值，用于校验文件的完整性
+breed-mt7620-reset1.bin	MT7620A / MT7620N 全通用，波特率 57600，复位键 GPIO#1
+breed-mt7620-reset2.bin	MT7620A / MT7620N 全通用，波特率 57600，复位键 GPIO#2
+breed-mt7620-reset11.bin	MT7620A / MT7620N 全通用，波特率 57600，复位键 GPIO#11
+breed-mt7620-reset12.bin	MT7620A / MT7620N 全通用，波特率 57600，复位键 GPIO#12
+breed-mt7620-reset13.bin	MT7620A / MT7620N 全通用，波特率 57600，复位键 GPIO#13
+breed-mt7620-reset26.bin	MT7620A / MT7620N 全通用，波特率 57600，复位键 GPIO#26
+breed-mt7620-reset30.bin	MT7620A / MT7620N 全通用，波特率 57600，复位键 GPIO#30
+breed-mt7620-rt-n14u.bin	MT7620A / MT7620N 全通用，波特率 57600，复位键 GPIO#1，WPS 键 GPIO#2
+breed-mt7620-whr-1166dhp.bin	MT7620A / MT7620N 全通用，波特率 57600，复位键 GPIO#52，AOSS 键 GPIO#53
+breed-mt7620-lenovo-y1.bin	联想 Y1 (newifi mini) 专用，波特率 115200，复位键 GPIO#11
+breed-mt7620-lenovo-y1s.bin	联想 Y1S (newifi) 专用，千兆口可用，波特率 115200，复位键 GPIO#11
+breed-mt7620-zte-q7.bin	中兴 ZTE Q7 专用，波特率 57600，复位键 GPIO#26
+breed-mt7620-youku-yk1.bin	优酷路由宝专用，波特率 57600，复位键 GPIO#1
+breed-mt7620-xiaomi-mini.bin	小米 Mini 专用，波特率 115200，复位键 GPIO#30
+breed-mt7620-fir302m.bin	斐讯 FIR300M/302M 专用，波特率 57600，复位键 GPIO#2
+breed-mt7620-phicomm-psg1208.bin	斐讯 PSG1208 (K1)/ PSG1218 (K2) 专用，波特率 57600，复位键 GPIO#1
+breed-mt7620-hiwifi-hc5761.bin	极路由 极壹S (HC5661)/极贰 (HC5761) 专用，波特率 115200，复位键 GPIO#12
+breed-mt7620-hiwifi-hc5861.bin	极路由 极叁 (HC5861) 专用，千兆LAN可用，波特率 115200，复位键 GPIO#12
+breed-mt7620-oye-0001.bin	哦耶 Oye-0001 专用，波特率 115200，复位键 GPIO#1
+breed-mt7620-airmobi-iplay2.bin	AirMobi iPlay2 专用，波特率 57600，复位键 GPIO#26
+breed-mt7621-newifi-d1.bin	联想 Newifi D1 专用，DDR3 内存适用，默认 256MB DDR AC 时序参数，波特率 115200，复位键 GPIO#15，WPS 键 GPIO#18
+breed-mt7621-xunlei-timeplug.bin	迅雷时光机 (时光云) 专用，DDR3 内存适用，默认 256MB DDR AC 时序参数，波特率 115200，复位键 GPIO#4
+breed-mt7621-youku-l2.bin	优酷路由宝 YK-L2 专用，DDR3 内存适用，默认 256MB DDR AC 时序参数，波特率 115200，复位键 GPIO#18，WPS 键 GPIO#17
+breed-mt7621-phicomm-k2p.bin	斐讯 K2P 专用，DDR3 内存适用，默认 512MB DDR AC 时序参数，波特率 57600，复位键 GPIO#3
+breed-mt7621-pbr-m1.bin	PandoraBox PBR-M1 专用，DDR3 内存适用，默认 512MB DDR AC 时序参数，波特率 115200，复位键 GPIO#18
+breed-mt7621-totolink-a3004ns.bin	TOTOLINK A3004NS 专用，DDR3 内存适用，默认 256MB DDR AC 时序参数，波特率 57600，复位键 GPIO#4，WPS 键 GPIO#3
+breed-mt7621-xiaomi-r3g.bin	小米路由器 3G 专用，NAND 启动，DDR3 内存适用，默认 256MB DDR AC 时序参数，波特率 115200，复位键 GPIO#18
+breed-mt7628-hiwifi-hc5661a.bin	极路由 极壹S (HC5661A) 专用，波特率 115200，复位键 GPIO#38
+breed-mt7628-oye-0006.bin	哦耶 OYE-0006 专用，波特率 115200，复位键 GPIO#38
+breed-mt7688-reset38.bin	MT7628AN/KN 全通用，波特率 57600，复位键 GPIO#38
+breed-rt3050-buffalo-wcr-hp-gn.bin	Buffalo WCR-HP-GN 专用，SPI 启动，波特率 57600，复位键 GPIO#10，WPS 键 GPIO#0
+breed-rt3050-di-524m-b1.bin	D-LINK DI-624M B1 专用，SPI 启动，波特率 57600，复位键 GPIO#10
+breed-rt305x-nor-reset0.bin	RT305X 通用，NOR 启动，波特率 57600，复位键 GPIO#0
+breed-rt305x-nor-reset10.bin	RT305X 通用，NOR 启动，波特率 57600，复位键 GPIO#10
+breed-rt3052-dir-605-b1.bin	D-LINK DIR-605 B1 专用，NOR 启动，波特率 57600，复位键 GPIO#10，WPS 键 GPIO#0
+breed-rt3052-hg255d.bin	华为 HG255D 专用，NOR 启动，波特率 115200，复位键 GPIO#4，WPS 键 GPIO#10
+breed-rt5350-airmobi-iplay.bin	AirMobi iPlay 专用，波特率 57600，复位键 GPIO#12
+breed-rt5350-hame-a5.bin	华美 A5 专用，波特率 57600，复位键 GPIO#0
+breed-rt5350-zm-10.bin	中沃 ZM-10 专用，波特率 57600，复位键 GPIO#10
+breed-ar7161-dir-825-b1.bin	D-LINK DIR-825 B1 专用，波特率 115200，复位键 GPIO#3，WPS 键 GPIO#8
+breed-ar724x.bin	AR724X 通用，百兆有线，波特率 115200，复位键 GPIO#11，QSS 键 GPIO#12
+breed-ar724x-reset11.bin	AR724X 通用，百兆有线，波特率 115200，复位键 GPIO#11
+breed-ar724x-reset12.bin	AR724X 通用，百兆有线，波特率 115200，复位键 GPIO#12
+breed-ar7240-wnr1000v2.bin	Netgear WNR1000 v2 专用，百兆有线，波特率 115200
+breed-ar7242-wr2543nd.bin	TP-LINK WR2543ND 专用，波特率 115200，复位键 GPIO#11，QSS 键 GPIO#12
+breed-ar7242-aruba-ap93.bin	Aruba-AP93 专用，千兆有线，波特率 115200，复位键 GPIO#11，WPS 键 GPIO#12
+breed-ar913x.bin	AR913X 通用，百兆有线，波特率 115200，复位键 GPIO#7，WPS 键 GPIO#3
+breed-ar9132-wr1043ndv1.bin	TP-LINK WR1043ND v1 专用，波特率 115200，复位键 GPIO#7，WPS 键 GPIO#3
+breed-ar9331.bin	AR9331 通用，波特率 115200，复位键 GPIO#11
+breed-ar9331-mr12u.bin	TP-LINK MR12U 专用，波特率 115200，复位键 GPIO#11
+breed-ar9331-pisen.bin	品胜云路由 (云座易充 WMM003N/无线音乐路由 WPR001N) 专用，波特率 115200，复位键 GPIO#12
+breed-ar9331-wr710n.bin	TP-LINK WR710N/WR720N v3 专用，波特率 115200，复位键 GPIO#11
+breed-ar9331-hiwifi-hc6361.bin	极路由 极壹 (HC6361) 专用，仅支持 TP 类固件，波特率 115200，复位键 GPIO#11
+breed-ar9341.bin	AR9341 通用，波特率 115200，复位键 GPIO#17
+breed-ar9341-wnr2000v4.bin	Netgear WNR2000 v4 专用，波特率 115200，复位键 GPIO#4
+breed-ar9341-pisen-wmp002n.bin	品胜云追剧 WMP002N 专用，波特率 115200，复位键 GPIO#17
+breed-ar9341-wr800n.bin	TP-LINK WR800N 专用，波特率 115200，复位键 GPIO#18
+breed-ar9342-wr1041nv2.bin	TP-LINK WR1042N v2 专用，波特率 115200，复位键 GPIO#14
+breed-ar9342-huawei-ws322.bin	华为 WS322 专用，波特率 115200，复位键 GPIO#0，WPS 键 GPIO#16
+breed-ar9344.bin	AR9344 百兆版，通用，波特率 115200，复位键 GPIO#16
+breed-ar9344-ar8327n.bin	AR9344 + AR8327N 千兆版，通用，波特率 115200，复位键 GPIO#16
+breed-ar9344-wdr3320v2.bin	TP-LINK WDR3320  v2 专用，波特率 115200，复位键 GPIO#16
+breed-ar9344-wr941nv6.bin	TP-LINK WR941N v6 专用，波特率 115200，复位键 GPIO#12
+breed-ar9344-mw4530r.bin	水星 MW4530R 专用，波特率 115200，复位键 GPIO#17，QSS 键 GPIO#16
+breed-ar9344-wndr4300-spi.bin	Netgear WNDR4300/WNDR3700 v4 专用，SPI 启动，波特率 115200，复位键 GPIO#21，QSS 键 GPIO#12
+breed-ar9344-wndr4300-spi-recovery.bin	Netgear WNDR4300/WNDR3700 v4 专用，SPI 启动，仅用于恢复目的，波特率 115200，复位键 GPIO#21，QSS 键 GPIO#12
+breed-ar9344-belair20e11.bin	BelAir20E-11 专用，波特率 115200，复位键 GPIO#17，WPS 键 GPIO#12
+breed-qca953x.bin	QCA9531/QCA9533，通用，波特率 115200，复位键 GPIO#12
+breed-qca953x-letv-lba-047-ch.bin	乐视路由专用，波特率 115200，复位键 GPIO#17
+breed-qca9558-wr941nv7.bin	TP-LINK WR941N v7 专用，波特率 115200，复位键 GPIO#17
+breed-qca9558-ar8236.bin	QCA9558 + AR8236 百兆版，通用，波特率 115200，复位键 GPIO#16
+breed-qca9558-ar8327n.bin	QCA9558 + AR8327N 千兆版，通用，波特率 115200，复位键 GPIO#16
+breed-qca9558-wr2041nv2.bin	TP-LINK WR2041N v2 专用，波特率 115200，复位键 GPIO#17
+breed-qca9558-wr1043ndv2.bin	TP-LINK WR1043ND v2 专用，波特率 115200，复位键 GPIO#16
+breed-qca9558-dw33d.bin	大麦 DW33D 专用，波特率 115200，复位键 GPIO#17
+breed-qca956x-uart_rx18_tx20-reset1.bin	QCA956X 通用，百兆/千兆自适应，波特率 115200，UART RX GPIO#18，TX GPIO#20，复位键 GPIO#1
+breed-qca956x-uart_rx18_tx20-reset2.bin	QCA956X 通用，百兆/千兆自适应，波特率 115200，UART RX GPIO#18，TX GPIO#20，复位键 GPIO#2
+breed-qca956x-uart_rx18_tx22-reset1.bin	QCA956X 通用，百兆/千兆自适应，波特率 115200，UART RX GPIO#18，TX GPIO#22，复位键 GPIO#1
+breed-qca956x-uart_rx18_tx22-reset2.bin	QCA956X 通用，百兆/千兆自适应，波特率 115200，UART RX GPIO#18，TX GPIO#22，复位键 GPIO#2
+breed-qca956x-uart_rx19_tx20-reset1.bin	QCA956X 通用，百兆/千兆自适应，波特率 115200，UART RX GPIO#19，TX GPIO#20，复位键 GPIO#1
+breed-qca956x-uart_rx19_tx20-reset2.bin	QCA956X 通用，百兆/千兆自适应，波特率 115200，UART RX GPIO#19，TX GPIO#20，复位键 GPIO#2
+breed-qca956x-uart_rx19_tx20-reset1.bin	QCA956X 通用，百兆/千兆自适应，波特率 115200，UART RX GPIO#19，TX GPIO#22，复位键 GPIO#1
+breed-qca956x-uart_rx19_tx22-reset2.bin	QCA956X 通用，百兆/千兆自适应，波特率 115200，UART RX GPIO#19，TX GPIO#22，复位键 GPIO#2
+breed-qca956x-uart_rx20_tx22-reset1.bin	QCA956X 通用，百兆/千兆自适应，波特率 115200，UART RX GPIO#20，TX GPIO#22，复位键 GPIO#1
+breed-qca956x-uart_rx20_tx22-reset2.bin	QCA956X 通用，百兆/千兆自适应，波特率 115200，UART RX GPIO#20，TX GPIO#22，复位键 GPIO#2
+breed-qca956x-reset2.bin	QCA956X 百兆版，通用，波特率 115200，复位键 GPIO#2
+breed-qca9561-wdr6500v2.bin	TP-LINK WDR6500 v2 专用，波特率 115200，复位键 GPIO#1
+breed-qca9563-wndr4500v3.bin	Netgear WNDR4500 v3 专用，波特率 115200，复位键 GPIO#2，WPS 键 GPIO#1
+breed-tp9343.bin	TP9343，通用，波特率 115200，复位键 GPIO#1
+
+注：专用版能够点亮所有LED
+
+以下是可以支持自定义复位键 GPIO 的特别版
+文件名	说明
+breed-ar7161-blank.bin	AR7161 专用，支持 AR8035 IP1001 MV88E1116 BCM5481 千兆 PHY
+breed-ar913x-blank.bin	AR913X 专用，仅支持 88E6060 百兆交换机
+breed-ar724x-blank.bin	AR724X 专用，支持内置百兆交换机和 AR8021 千兆 PHY
+breed-ar9331-blank.bin	AR9331 专用，仅支持内置百兆交换机
+breed-ar934x-blank.bin	AR934X 专用，支持内置百兆交换机和  AR8327(N) 千兆交换机、AR8035 RTL8211E 千兆 PHY、RTL8201 百兆 PHY
+breed-mt7620-blank.bin	MT7620 专用，仅支持内置百兆交换机
+breed-mt76x8-blank.bin	MT7628/MT7688 专用，仅支持内置百兆交换机
+breed-rt305x-nor-blank.bin	RT305X 专用，从 NOR 闪存启动，仅支持内置百兆交换机
+breed-rt305x-spi-blank.bin	RT305X 专用，从 SPI 闪存启动，仅支持内置百兆交换机
+breed-rt5350-blank.bin	RT5350 专用，仅支持内置百兆交换机
